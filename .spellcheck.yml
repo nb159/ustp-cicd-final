@@ -1,0 +1,10 @@
+matrix:
+  - name: Markdown
+    sources:
+      - "**/*.md"
+    aspell:
+      lang: en
+    dictionary:
+      wordlists:
+        - .spellcheck-wordlist.txt
+      encoding: utf-8
