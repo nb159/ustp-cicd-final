@@ -2,3 +2,15 @@ vscode
 ci
 cicd
 github
+tetris
+ustp
+dev
+https
+io
+js
+nb
+npm
+svg
+yml
+html
+opensource
